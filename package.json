@@ -1,0 +1,16 @@
+{
+  "name": "parity-checker",
+  "version": "1.0.1",
+  "description": "Provides functions for parity checking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parity",
+    "odd",
+    "even"
+  ],
+  "author": "Oleh Kir <oleggio.kir@gmail.com>",
+  "license": "ISC"
+}
