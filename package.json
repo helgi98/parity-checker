@@ -11,6 +11,10 @@
     "odd",
     "even"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/helgi98/parity-checker"
+  },
   "author": "Oleh Kir <oleggio.kir@gmail.com>",
   "license": "ISC"
 }
