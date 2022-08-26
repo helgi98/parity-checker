@@ -1,6 +1,6 @@
 {
   "name": "parity-checker",
-  "version": "1.2.0",
+  "version": "1.0.2",
   "description": "Provides functions for parity checking",
   "main": "index.js",
   "scripts": {
